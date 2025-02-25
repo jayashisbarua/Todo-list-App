@@ -24,7 +24,7 @@ A **simple and intuitive** Todo List app built using **Flutter** and **Firebase*
 
 ---
 
-## ⚫️ ** Dark modes**
+## ⚫️ Dark modes
 
 | No Task | Add Task | Taks View | Incomplete Task | Complete Task |
 |------------|---------|-----------|-----------|-----------|
