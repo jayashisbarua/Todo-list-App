@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9B5640162D272901000069F5 /* Todo list 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Todo list 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B5640262D272902000069F5 /* Todo list 2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Todo list 2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B5640302D272902000069F5 /* Todo list 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Todo list 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B5640162D272901000069F5 /* Todo List.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Todo List.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B5640262D272902000069F5 /* Todo ListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Todo ListTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B5640302D272902000069F5 /* Todo ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Todo ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		9B5640172D272901000069F5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9B5640162D272901000069F5 /* Todo list 2.app */,
-				9B5640262D272902000069F5 /* Todo list 2Tests.xctest */,
-				9B5640302D272902000069F5 /* Todo list 2UITests.xctest */,
+				9B5640162D272901000069F5 /* Todo List.app */,
+				9B5640262D272902000069F5 /* Todo ListTests.xctest */,
+				9B5640302D272902000069F5 /* Todo ListUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9B5640152D272901000069F5 /* Todo list 2 */ = {
+		9B5640152D272901000069F5 /* Todo List */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B56403A2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2" */;
+			buildConfigurationList = 9B56403A2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo List" */;
 			buildPhases = (
 				9B5640122D272901000069F5 /* Sources */,
 				9B5640132D272901000069F5 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				9B5640182D272901000069F5 /* Todo list 2 */,
 			);
-			name = "Todo list 2";
+			name = "Todo List";
 			packageProductDependencies = (
 			);
 			productName = "Todo list 2";
-			productReference = 9B5640162D272901000069F5 /* Todo list 2.app */;
+			productReference = 9B5640162D272901000069F5 /* Todo List.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9B5640252D272902000069F5 /* Todo list 2Tests */ = {
+		9B5640252D272902000069F5 /* Todo ListTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B56403D2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2Tests" */;
+			buildConfigurationList = 9B56403D2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo ListTests" */;
 			buildPhases = (
 				9B5640222D272902000069F5 /* Sources */,
 				9B5640232D272902000069F5 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				9B5640292D272902000069F5 /* Todo list 2Tests */,
 			);
-			name = "Todo list 2Tests";
+			name = "Todo ListTests";
 			packageProductDependencies = (
 			);
 			productName = "Todo list 2Tests";
-			productReference = 9B5640262D272902000069F5 /* Todo list 2Tests.xctest */;
+			productReference = 9B5640262D272902000069F5 /* Todo ListTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9B56402F2D272902000069F5 /* Todo list 2UITests */ = {
+		9B56402F2D272902000069F5 /* Todo ListUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B5640402D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2UITests" */;
+			buildConfigurationList = 9B5640402D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo ListUITests" */;
 			buildPhases = (
 				9B56402C2D272902000069F5 /* Sources */,
 				9B56402D2D272902000069F5 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				9B5640332D272902000069F5 /* Todo list 2UITests */,
 			);
-			name = "Todo list 2UITests";
+			name = "Todo ListUITests";
 			packageProductDependencies = (
 			);
 			productName = "Todo list 2UITests";
-			productReference = 9B5640302D272902000069F5 /* Todo list 2UITests.xctest */;
+			productReference = 9B5640302D272902000069F5 /* Todo ListUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9B5640112D272901000069F5 /* Build configuration list for PBXProject "Todo list 2" */;
+			buildConfigurationList = 9B5640112D272901000069F5 /* Build configuration list for PBXProject "Todo List 2" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9B5640152D272901000069F5 /* Todo list 2 */,
-				9B5640252D272902000069F5 /* Todo list 2Tests */,
-				9B56402F2D272902000069F5 /* Todo list 2UITests */,
+				9B5640152D272901000069F5 /* Todo List */,
+				9B5640252D272902000069F5 /* Todo ListTests */,
+				9B56402F2D272902000069F5 /* Todo ListUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		9B5640282D272902000069F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9B5640152D272901000069F5 /* Todo list 2 */;
+			target = 9B5640152D272901000069F5 /* Todo List */;
 			targetProxy = 9B5640272D272902000069F5 /* PBXContainerItemProxy */;
 		};
 		9B5640322D272902000069F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9B5640152D272901000069F5 /* Todo list 2 */;
+			target = 9B5640152D272901000069F5 /* Todo List */;
 			targetProxy = 9B5640312D272902000069F5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -399,9 +399,9 @@
 				DEVELOPMENT_TEAM = BKH2U6VT38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Todo-list-2-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -428,9 +428,9 @@
 				DEVELOPMENT_TEAM = BKH2U6VT38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Todo-list-2-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -461,7 +461,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todo list 2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todo list 2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todo List.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todo List";
 			};
 			name = Debug;
 		};
@@ -480,7 +480,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todo list 2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todo list 2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Todo List.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Todo List";
 			};
 			name = Release;
 		};
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9B5640112D272901000069F5 /* Build configuration list for PBXProject "Todo list 2" */ = {
+		9B5640112D272901000069F5 /* Build configuration list for PBXProject "Todo List 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B5640382D272902000069F5 /* Debug */,
@@ -530,7 +530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B56403A2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2" */ = {
+		9B56403A2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo List" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B56403B2D272902000069F5 /* Debug */,
@@ -539,7 +539,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B56403D2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2Tests" */ = {
+		9B56403D2D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo ListTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B56403E2D272902000069F5 /* Debug */,
@@ -548,7 +548,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B5640402D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo list 2UITests" */ = {
+		9B5640402D272902000069F5 /* Build configuration list for PBXNativeTarget "Todo ListUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B5640412D272902000069F5 /* Debug */,

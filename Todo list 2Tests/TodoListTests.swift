@@ -1,14 +1,14 @@
 //
-//  Todo_list_2Tests.swift
-//  Todo list 2Tests
+//  TodoListTests.swift
+//  TodoListTests
 //
-//  Created by Jayashis Barua on 03/01/25.
+//  Created by Jayashis Barua on 02/01/25.
 //
 
 import Testing
-@testable import Todo_list_2
+@testable import TodoList
 
-struct Todo_list_2Tests {
+struct TodoListTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
