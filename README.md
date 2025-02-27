@@ -7,11 +7,18 @@ A **simple and intuitive** Todo List app built using **SwiftUI**, designed to he
 ## 🚀 **Features**  
 
 ✅ **Add, Edit & Delete Tasks** – Easily manage your to-dos  
+
 ✅ **Drag & Drop Task Sorting** - Lets user Sort Todos according to their preference
-✅ **Real-time Data Storage** – Uses local storage to store all your Todos so that next time when you open the App it will hold the previous Todos 
+
+✅ **Real-time Data Storage** – Uses local storage to store all your Todos so that next
+time when you open the App it will hold the previous todos 
+
 ✅ **Beautiful UI/UX** – Smooth animations & user-friendly interface  
+
 ✅ **Task Prioritization** – Highlight important tasks  
+
 ✅ **Dark Mode Support** – Adaptable for all environments  
+
 ✅ **Orientation Support** – Works on both in **Portrait and Landscape Mode**  
 
 ---
