@@ -1,6 +1,6 @@
 # ✅ **Todo List App**  
 
-A **simple and intuitive** Todo List app built using **Flutter** and **Firebase**, designed to help users **stay organized, manage tasks efficiently, and boost productivity**.  
+A **simple and intuitive** Todo List app built using **SwiftUI**, designed to help users **stay organized, manage tasks efficiently, and boost productivity**.  
 
 ---
 
@@ -33,7 +33,7 @@ A **simple and intuitive** Todo List app built using **Flutter** and **Firebase*
 ## 🛠️ **Tech Stack**  
 
 - **SwiftUI** – For iOS Development
-- **Dart** – Language for SwiftUI Development  
+- **Swift** – Language for SwiftUI Development  
 - **Provider** – State management for handling tasks efficiently 
 - **Shared Preferences** – Local storage for task caching  
 
