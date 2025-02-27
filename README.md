@@ -18,17 +18,17 @@ A **simple and intuitive** Todo List app built using **SwiftUI**, designed to he
 
 ## 📸 **Screenshots**  
 
-| No Task | Add Task | Taks View | Incomplete Task | Complete Task |
+| No Task | Add Task | Task View | Incomplete Task | Complete Task |
 |------------|---------|-----------|-----------|-----------|
-| ![No task](https://github.com/jayashisbarua/Todo-list-App/blob/main/no%20tasks.png) | ![Add Task](https://github.com/jayashisbarua/Todo-list-App/blob/main/add%20task.png) | ![Tasks View](https://github.com/jayashisbarua/Todo-list-App/blob/main/tasks.png) | ![incomplete](https://github.com/jayashisbarua/Todo-list-App/blob/main/incomplete.png) | ![complete](https://github.com/jayashisbarua/Todo-list-App/blob/main/complete.png) |
+| <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/no%20tasks.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/add%20task.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/tasks.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/incomplete.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/complete.png" width="250"> |
 
 ---
 
 ## ⚫️ Dark modes
 
-| No Task | Add Task | Taks View | Incomplete Task | Complete Task |
+| No Task | Add Task | Task View | Incomplete Task | Complete Task |
 |------------|---------|-----------|-----------|-----------|
-| ![No task](https://github.com/jayashisbarua/Todo-list-App/blob/main/no%20tasks%20dark.png) | ![Add Task](https://github.com/jayashisbarua/Todo-list-App/blob/main/add%20task%20dark.png) | ![Tasks View](https://github.com/jayashisbarua/Todo-list-App/blob/main/tasks%20dark.png) | ![incomplete](https://github.com/jayashisbarua/Todo-list-App/blob/main/incomplete%20dark.png) | ![complete](https://github.com/jayashisbarua/Todo-list-App/blob/main/complete%20dark.png) |
+| <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/no%20tasks%20dark.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/add%20task%20dark.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/tasks%20dark.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/incomplete%20dark.png" width="250"> | <img src="https://github.com/jayashisbarua/Todo-list-App/blob/main/complete%20dark.png" width="250"> |
 
 ## 🛠️ **Tech Stack**  
 
